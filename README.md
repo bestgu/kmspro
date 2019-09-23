@@ -26,7 +26,7 @@ wget -N --no-check-certificate git.io/kms.sh && chmod +x kms.sh && bash kms.sh c
 
 ### 启动KMS服务
 ```
-bash k.sh start
+bash kms.sh start
 
 服务器IP地址既是KMS服务器地址
 也可以将域名解析至IP使用（支持IPv6 即AAAA记录）
@@ -36,27 +36,27 @@ bash k.sh start
 
 ### 关闭KMS服务
 ```
-bash k.sh stop
+bash kms.sh stop
 ```
 
 ### 添加开机自启动KMS服务
 ```
-bash k.sh auto
+bash kms.sh auto
 ```
 
 ### 重启KMS服务
 ```
-bash k.sh restart
+bash kms.sh restart
 ```
 
 ### 查看KMS服务运行状态
 ```
-bash k.sh status
+bash kms.sh status
 ```
 
 ### 卸载KMS服务
 ```
-bash k.sh uninstall
+bash kms.sh uninstall
 ```
 
 ## Windows系统 自建KMS服务器
