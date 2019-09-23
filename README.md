@@ -1,4 +1,4 @@
-## 官方网站：https://jihuo.bestgu.cn
+## 官方网站：https://kms.bestgu.cn
 
 ---
 
