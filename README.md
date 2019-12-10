@@ -6,7 +6,7 @@
 
 ### windows系统一句命令激活
 
-#### 打开 命令提示符（管理员） 运行：slmgr /skms kms.v0v.bid && slmgr /ato
+#### 打开 命令提示符（管理员） 运行：slmgr /skms kms.bestgu.cn && slmgr /ato
 
 ---
 
@@ -31,7 +31,7 @@ bash kms.sh start
 服务器IP地址既是KMS服务器地址
 也可以将域名解析至IP使用（支持IPv6 即AAAA记录）
 
-更多详细教程：https://jihuo.bestgu.cn/kms.html
+更多详细教程：https://kms.bestgu.cn/kms.html
 ```
 
 ### 关闭KMS服务
