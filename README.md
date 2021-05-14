@@ -64,7 +64,7 @@ bash kms.sh uninstall
 ### 一键安装KMS服务 （Windows系统 x86/x64）
 ```
 访问下方地址：
-https://github.com/bestgu/vlmcsd/releases
+https://github.com/Wind4/vlmcsd/releases
 下载最新版本 binaries.tar.gz
 
 解压后运行：
