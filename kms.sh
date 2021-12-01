@@ -19,7 +19,7 @@ apt-get install gcc git make -y
 rm -rf /usr/local/kms
 mkdir /usr/local/kms
 cd /usr/local/kms
-git clone https://github.com/bestgu/vlmcsd.git
+git clone https://github.com/Wind4/vlmcsd.git
 cd vlmcsd
 make
 cd bin
